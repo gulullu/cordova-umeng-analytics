@@ -23,8 +23,8 @@
         </config-file>
         <config-file target="AndroidManifest.xml"  parent="application">
             <!-- appkey -->
-            <meta-data android:name="UMENG_APPKEY" android:value="4f83c5d852701564c0000011" />
-            <meta-data android:name="UMENG_CHANNEL" android:value="Umeng-Channel"/>
+            <meta-data android:name="UMENG_APPKEY" android:value="5859e77ac62dca0e01000e75" />
+            <meta-data android:name="UMENG_CHANNEL" android:value="应用宝"/>
         </config-file>        
         <config-file target="AndroidManifest.xml"  parent="/manifest">
             <uses-permission android:name="android.permission.INTERNET" />
